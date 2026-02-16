@@ -8,3 +8,4 @@ It contains:
 3. jupytor notebook files
 4. projects
 
+Well this is work in progress i don't even know what i am doing but it's alright
