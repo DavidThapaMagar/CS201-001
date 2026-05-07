@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Page-1" id="g3lmarE5IRpBbH42Ovf9">
+    <mxGraphModel dx="719" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" value="Computer Science" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-2" edge="1" parent="1" source="6iaIA1sjE6uK6p6Tsy7B-3" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;" target="6iaIA1sjE6uK6p6Tsy7B-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="276" y="70" as="sourcePoint" />
+            <mxPoint x="360" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Software development/ Software Engineering" vertex="1">
+          <mxGeometry height="30" width="140" x="120" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Artificial Intelligence and Machine Learning" vertex="1">
+          <mxGeometry height="30" width="140" x="450" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-5" edge="1" parent="1" source="6iaIA1sjE6uK6p6Tsy7B-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6iaIA1sjE6uK6p6Tsy7B-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="340" y="100" as="sourcePoint" />
+            <mxPoint x="490" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-6" edge="1" parent="1" source="6iaIA1sjE6uK6p6Tsy7B-7" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6iaIA1sjE6uK6p6Tsy7B-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="160" as="sourcePoint" />
+            <mxPoint x="414" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Cyber Security" vertex="1">
+          <mxGeometry height="20" width="90" x="335" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-8" edge="1" parent="1" source="6iaIA1sjE6uK6p6Tsy7B-9" style="endArrow=none;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="6iaIA1sjE6uK6p6Tsy7B-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="130" as="sourcePoint" />
+            <mxPoint x="410" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Cloud Computing, Dev Ops" vertex="1">
+          <mxGeometry height="30" width="114" x="200" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-11" edge="1" parent="1" source="6iaIA1sjE6uK6p6Tsy7B-12" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;" target="6iaIA1sjE6uK6p6Tsy7B-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="70" as="sourcePoint" />
+            <mxPoint x="490" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Systems Programming / Low-Level Engineering" vertex="1">
+          <mxGeometry height="30" width="140" x="520" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6iaIA1sjE6uK6p6Tsy7B-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=8;align=left;" value="&lt;h1 data-start=&quot;4003&quot; data-end=&quot;4027&quot;&gt;Emerging Fields&lt;/h1&gt;&lt;ul data-start=&quot;4029&quot; data-end=&quot;4128&quot;&gt;&lt;li data-start=&quot;4029&quot; data-end=&quot;4048&quot;&gt;&lt;p data-start=&quot;4031&quot; data-end=&quot;4048&quot;&gt;Quantum computing&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;4049&quot; data-end=&quot;4065&quot;&gt;&lt;p data-start=&quot;4051&quot; data-end=&quot;4065&quot;&gt;Edge computing&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;4066&quot; data-end=&quot;4085&quot;&gt;&lt;p data-start=&quot;4068&quot; data-end=&quot;4085&quot;&gt;Web3 Blockchain&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;4086&quot; data-end=&quot;4108&quot;&gt;&lt;p data-start=&quot;4088&quot; data-end=&quot;4108&quot;&gt;Human-AI interaction&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;4109&quot; data-end=&quot;4128&quot;&gt;&lt;p data-start=&quot;4111&quot; data-end=&quot;4128&quot;&gt;Spatial computing&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="120" width="130" x="680" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
